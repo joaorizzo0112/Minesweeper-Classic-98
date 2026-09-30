@@ -1,0 +1,14 @@
+{
+  "name": "Campo Minado",
+  "short_name": "Minado",
+  "description": "O clássico jogo de minas, estilo Windows 98.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#008080",
+  "theme_color": "#008080",
+  "icons": [
+    { "src": "icons/icon192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
